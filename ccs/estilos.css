@@ -359,11 +359,9 @@ body{
     }
 
     .footer__form{
-        width: 50%;
+        width: 100%;
         justify-content: space-evenly;
     }
 
-    .footer__input{
-        flex: 1;
-    }
+
 }
