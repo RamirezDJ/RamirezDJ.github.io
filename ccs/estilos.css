@@ -363,5 +363,7 @@ body{
         justify-content: space-evenly;
     }
 
-
+    .footer__input{
+        flex: 1;
+    }
 }
