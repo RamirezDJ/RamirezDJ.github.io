@@ -326,6 +326,7 @@ body{
 
     .content-container{
         gap: 2em;
+        align-items: center;
     }
 
     .map-text-container {
