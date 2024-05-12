@@ -338,6 +338,23 @@ body{
         margin-top: 20px; /* Espacio entre el texto y el mapa */
     }
 
+    .text-container {
+        text-align: center;
+        margin-right: 20px; /* Ajusta según sea necesario */
+        max-width: 100%; /* Evita que el texto se salga del contenedor */
+    }
+    
+    .about__paragraph {
+        line-height: 1.7;
+        margin-bottom: 15px;
+        max-width: 100%; /* Evita que el texto se salga del contenedor */
+    }
+    
+    .text-container img {
+        max-width: 100%; /* Ajusta la imagen al ancho del contenedor */
+        height: auto; /* Permite que la altura se ajuste automáticamente */
+    }
+
     .knowledge__container{
         grid-template-columns: 1fr;
         grid-template-rows: max-content 1fr;
